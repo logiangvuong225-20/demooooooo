@@ -1,0 +1,51 @@
+
+input {
+  width: 400px;
+  height: 60px;
+  font-size: 1.5em;
+}
+.formAdd {
+  text-align: center;
+  font-size: 1.5em;
+}
+button {
+  width: 100px;
+  height: 60px;
+  font-size: 0.5em;
+  margin: 5px;
+}
+.all-item {
+  text-align: center;
+  border: 1px solid #000;
+  width: 50%;
+  margin-left: 25%;
+}
+.deleteData {
+  display: inline;
+
+  font-size: 1em;
+}
+.update {
+  font-size: 1em;
+}
+.commentF {
+  margin: 10px;
+  position: absolute;
+  top: 400px;
+}
+.d-flex {
+  margin-left: 42%;
+  font-size: 1.5em;
+}
+.search {
+  margin-left: 35%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.cart {
+  margin: 50px;
+  text-align: right;
+  position: fixed;
+  top: 5px;
+  right: 10px;
+}
